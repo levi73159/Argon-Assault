@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637655227135370993
+      ticks: 637655926912473705
     m_Hash: 2003956774
   m_LockFileStatus:
     m_FilePath: C:/Users/roady/OneDrive/Documents/GitHub/Argon-Assault/ArgonAssault/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637655227927177464
+      ticks: 637655927406655055
     m_Hash: 2889151785
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -441,11 +441,13 @@ m_PackageAssets:
         - 1.1.24
         - 1.1.26
         - 1.1.27
+        - 1.1.29
         compatible:
         - 1.1.24
         - 1.1.26
         - 1.1.27
-        verified: 1.1.27
+        - 1.1.29
+        verified: 1.1.29
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.6
